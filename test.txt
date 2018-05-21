@@ -1,1 +1,2 @@
 First file in git version control.
+Git is a distributed version control system.
